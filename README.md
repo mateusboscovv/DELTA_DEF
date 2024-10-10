@@ -1,0 +1,1 @@
+Código Arduíno, sendo carrinho de controle remoto, movido pela ação de esticar e contrair os dedos da mão, foi projetado com o objetivo de ajudar no desenvolvimento da coordenação motora fina de uma criança em desenvolvimento.
